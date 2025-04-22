@@ -1,0 +1,26 @@
+{
+    "tasks":[
+{
+    "id": 1,
+    "name": "a title",
+    "description":"test",
+    "status": "pending",
+    "deadline":"2022-06-17T11:06:50.369Z"
+},
+{
+    "id": 2,
+    "name": "task 2",
+    "description":"test task 2",
+    "status": "pending",
+    "deadline":"2022-06-30T11:06:50.369Z"
+
+},
+{
+    "id": 3,
+    "name": "task 3",
+    "description":"test task 3",
+    "status": "active",
+    "deadline":"2022-10-06T11:06:50.369Z"
+}
+    ]
+}
